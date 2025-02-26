@@ -1,0 +1,7 @@
+
+{
+  "project": "mywebsite",
+  "editUrlLabel": "AEM Editor",
+  "host": "www.mywebsite.com",
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+}
